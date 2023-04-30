@@ -1,2 +1,2 @@
 # NodeJS-MicroServices
-  A learning adventure repository of NodeJS Microservices Architectures
+  A learning adventure of NodeJS Microservices Architectures
